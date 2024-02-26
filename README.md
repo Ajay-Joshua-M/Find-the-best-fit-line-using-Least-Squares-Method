@@ -45,7 +45,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show() 
-/*
+*/
 ## Output: 
 [2,9,5,5,3,7,1,8,6,2]
 [69,98,82,77,71,84,55,94,84,64]
